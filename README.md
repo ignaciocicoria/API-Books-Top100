@@ -44,6 +44,7 @@ En Linux / macOS:
 ```
 source venv/bin/activate
 ```
+Asegurarse que todos los archivos se encuentren en el directorio del proyecto.
 #### 2️⃣ Instalar dependencias
 
 ```
