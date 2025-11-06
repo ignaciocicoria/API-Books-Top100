@@ -26,5 +26,4 @@ Este proyecto implementa una **API REST** con **FastAPI** que permite gestionar 
 
 ---
 
-## 🧩 Estructura del repositorio
 
