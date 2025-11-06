@@ -1,4 +1,4 @@
-# API-Libros-Top100 📚
+# API-Libros-Top100 
 
 Este proyecto implementa una **API REST** con **FastAPI** que permite gestionar una lista de los 100 mejores libros, utilizando como base de datos un archivo JSON tomado del repositorio público [100 Best Books](https://github.com/benoitvallon/100-best-books/blob/master/books.json).
 
