@@ -12,13 +12,8 @@ Original file is located at
 # API Top 100 Libros
 API desarrollada en FastAPI para administrar una lista de los 100 mejores libros.
 Permite consultar, agregar, modificar y eliminar libros de un archivo JSON local.
-El dataset se descarga automáticamente desde GitHub si no está disponible.
+El dataset se descarga automáticamente desde GitHub si no está disponible."""
 
-Instalamos dependencias e importamos librerías.
-"""
-
-!pip install fastapi
-!pip install uvicorn
 
 from fastapi import FastAPI, HTTPException
 from pydantic import BaseModel, HttpUrl
